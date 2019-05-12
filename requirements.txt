@@ -1,0 +1,3 @@
+# modules required for install in virtual env
+mysql-connector==2.2.9
+django
